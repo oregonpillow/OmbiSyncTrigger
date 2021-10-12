@@ -9,7 +9,7 @@ This script ensures Ombi syncs with Emby immedietely after each successful Radar
 Could be easiely adapted for Plex.
 
 ## Requirements
-* Radarr/ Sonarr (dockers)
+* Radarr/ Sonarr
 
 ## Usage
 * Remember to give script executable permissions
